@@ -1,0 +1,2911 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Test",
+      "class": "Knight",
+      "items": [
+        {
+          "id": 0,
+          "name": "Antinomy Artifact",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/QKOqRz4.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 1,
+          "name": "Foreman's Hard Hat",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/C0UPuZd.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 2,
+          "name": "Ornaments of Unity",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/uMaG5vC.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 3,
+          "name": "Entropy Reactor",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/qOUhtvS.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 4,
+          "name": "Operator's Hard Hat",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/pdhSV9L.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 5,
+          "name": "Ring of the Swiftblade",
+          "tier": "ST (Limited)",
+          "image": "//i.imgur.com/Ko9Dmn0.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 6,
+          "name": "Ring of the Stalwart",
+          "tier": "ST (Limited)",
+          "image": "//i.imgur.com/2qVUwsW.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 7,
+          "name": "Ring of the Sniper",
+          "tier": "ST (Limited)",
+          "image": "//i.imgur.com/8WNmrvf.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 8,
+          "name": "Ring of the Magus",
+          "tier": "ST (Limited)",
+          "image": "//i.imgur.com/XF8bYOk.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 9,
+          "name": "Ember of the Daeva",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/gtppC0w.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 10,
+          "name": "Ember of the Void",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/hIIZxVi.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 11,
+          "name": "Loaded Core",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/rtib4TN.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 12,
+          "name": "Laborer's Hard Hat",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/bHBHTJV.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 13,
+          "name": "Phantom Pendant",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/W3fEUlp.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 14,
+          "name": "Ring of Unbound Love",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/4KsjcR7.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 15,
+          "name": "Tiara of Eggscellent Sturdiness",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/7POuKUE.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 16,
+          "name": "Unresolved Grudge",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/gcjWdAn.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 17,
+          "name": "Devil Horn Headband",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/o42oQb9.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 18,
+          "name": "Burlap Hat",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/zBu7RGy.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 19,
+          "name": "Grim Goblet",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/diHcSFp.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 20,
+          "name": "Vial of Sustenance",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/JTjlV7L.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 21,
+          "name": "Collarbone Collar",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/LUla49t.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 22,
+          "name": "Pontifex Ring",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/3yn5dkM.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 23,
+          "name": "Horned Ring",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/deIZAI1.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 24,
+          "name": "Legacy Forgotten Ring",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/ad5DQeR.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 25,
+          "name": "Legacy Ring of Pure Wishes",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/t9URlJg.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 26,
+          "name": "Legacy Spectral Ring of Horrors",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/1puXzet.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 27,
+          "name": "Witch's Brooch",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/4xBEZfB.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 28,
+          "name": "Almandine Ring of Wrath",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/nXveBo0.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 29,
+          "name": "Moonstone Ring",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/rSmiXEX.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 30,
+          "name": "Ice Crown",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/iXRz4w2.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 31,
+          "name": "His Majesty's Eminence",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/oZpv48w.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 33,
+          "name": "Elemental Equilibrium",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/ClRVIkg.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 34,
+          "name": "Jade Beetle",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/6voAkZF.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 35,
+          "name": "Abyssal Trophy",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/GcyNhWp.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 36,
+          "name": "Amulet of the Great Shaman",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/KvBpbq3.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 37,
+          "name": "Emblem of the Empire",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/LLvIvUZ.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 38,
+          "name": "Crystal Key",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/oMBVOt5.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 39,
+          "name": "Sunken Fire Opal Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/1QvUwsT.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 40,
+          "name": "Fractured Hannya",
+          "tier": "UT",
+          "image": "//i.imgur.com/NM1rQ38.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 41,
+          "name": "Faded Heart Scarab",
+          "tier": "UT",
+          "image": "//i.imgur.com/YKRK0PG.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 42,
+          "name": "Crucible Tank Ring",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/8AjApJO.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 43,
+          "name": "Crucible Melee Ring",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/hy2TSdU.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 44,
+          "name": "Crucible Magic Ring",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/gU1Cydp.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 45,
+          "name": "Crucible Archer Ring",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/TeviMt8.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 46,
+          "name": "Amulet of Elemental Water",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/xySUd6i.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 47,
+          "name": "Amulet of Elemental Fire",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/QqszRLk.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 48,
+          "name": "Amulet of Elemental Earth",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/imvbqHN.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 49,
+          "name": "Amulet of Elemental Air",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/fAMqqdT.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 50,
+          "name": "Soulful Affection",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/TNDAgxp.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 51,
+          "name": "Gold Medal",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/cHCyPDp.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 52,
+          "name": "Gem of Adoration",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/B9aJoug.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 53,
+          "name": "Gem of Tenderness",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/a9ZfCkc.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 54,
+          "name": "Mask of Mucus",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/0TIuJzQ.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 55,
+          "name": "Mask of Cnidaria",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/hefXbkv.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 56,
+          "name": "Mask of Lightning",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/lqBRq8w.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 57,
+          "name": "Mask of Anubis",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/2XvNPEo.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 58,
+          "name": "Ring of the Burning Sun",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/w7gF8l4.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 59,
+          "name": "America Ring",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/47fxkVg.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 60,
+          "name": "Silver Medal",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/XOrFcZE.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 61,
+          "name": "Bronze Medal",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/jHiqUXX.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 62,
+          "name": "Soul Gem Amulet",
+          "tier": "ST ",
+          "image": "//i.imgur.com/rXuHxFT.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 63,
+          "name": "Fang Necklace",
+          "tier": "ST ",
+          "image": "//i.imgur.com/iU3z5Kn.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 64,
+          "name": "Protective Gloves",
+          "tier": "ST ",
+          "image": "//i.imgur.com/daIBNzB.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 65,
+          "name": "Gjallarhorn",
+          "tier": "ST ",
+          "image": "//i.imgur.com/vZsjila.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 66,
+          "name": "Alien Core: Warp",
+          "tier": "ST",
+          "image": "//i.imgur.com/cl1y4Jh.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 67,
+          "name": "Alien Core: Power",
+          "tier": "ST",
+          "image": "//i.imgur.com/xPLOjWl.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 68,
+          "name": "Alien Core: Dark Matter",
+          "tier": "ST",
+          "image": "//i.imgur.com/YWUuUxP.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 69,
+          "name": "Alien Core: Corrosion",
+          "tier": "ST",
+          "image": "//i.imgur.com/KIM2GLf.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 70,
+          "name": "Steadfast Glyph",
+          "tier": "ST ",
+          "image": "//i.imgur.com/XU1inL6.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 71,
+          "name": "Autarch Amulet",
+          "tier": "ST ",
+          "image": "//i.imgur.com/Qlbtkrg.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 72,
+          "name": "Ring of Wrath",
+          "tier": "ST ",
+          "image": "//i.imgur.com/PcDyaOx.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 73,
+          "name": "Mayhem Medallion",
+          "tier": "ST ",
+          "image": "//i.imgur.com/pGNL0ht.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 74,
+          "name": "Defiled Equilibrium",
+          "tier": "ST ",
+          "image": "//i.imgur.com/dIOdLFM.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 75,
+          "name": "Augur of the Tempest",
+          "tier": "ST ",
+          "image": "//i.imgur.com/iaCR5cv.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 76,
+          "name": "Cuband",
+          "tier": "ST ",
+          "image": "//i.imgur.com/MUrhBEc.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 77,
+          "name": "Omni-Impotence Ring",
+          "tier": "ST",
+          "image": "//i.imgur.com/GpEZlFe.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 78,
+          "name": "Regal Ring",
+          "tier": "ST ",
+          "image": "//i.imgur.com/I521xTT.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 79,
+          "name": "C.O.N.T.R.O.L.L.E.R.",
+          "tier": "ST ",
+          "image": "//i.imgur.com/NTx7xLN.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 80,
+          "name": "Heavenly Halo",
+          "tier": "ST ",
+          "image": "//i.imgur.com/XtFL74D.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 81,
+          "name": "Brass Knuckles",
+          "tier": "ST ",
+          "image": "//i.imgur.com/bTzGnoH.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 82,
+          "name": "Bolt in a Bottle",
+          "tier": "ST ",
+          "image": "//i.imgur.com/D91rMkO.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 83,
+          "name": "Performer's Hat",
+          "tier": "ST ",
+          "image": "//i.imgur.com/NPA5eZi.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 84,
+          "name": "Imperial Keepsake",
+          "tier": "ST ",
+          "image": "//i.imgur.com/TNIvFIf.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 85,
+          "name": "Radiant Heart",
+          "tier": "ST ",
+          "image": "//i.imgur.com/hxd7YhX.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 86,
+          "name": "Ring of the Inferno",
+          "tier": "ST ",
+          "image": "//i.imgur.com/cGXdu3q.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 87,
+          "name": "Lucky Grenade",
+          "tier": "ST ",
+          "image": "//i.imgur.com/8vGaqis.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 88,
+          "name": "Rusty Cuffs",
+          "tier": "ST ",
+          "image": "//i.imgur.com/AfwHPCC.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 89,
+          "name": "Eye of the Void",
+          "tier": "ST ",
+          "image": "//i.imgur.com/4beCFld.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 90,
+          "name": "Traveler's Trinket",
+          "tier": "ST ",
+          "image": "//i.imgur.com/V5BUBrZ.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 91,
+          "name": "Bloodstone Ring",
+          "tier": "ST ",
+          "image": "//i.imgur.com/MBaWevS.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 92,
+          "name": "Hivemind Circlet",
+          "tier": "ST ",
+          "image": "//i.imgur.com/3U1Ks4Q.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 93,
+          "name": "Interregnum",
+          "tier": "ST ",
+          "image": "//i.imgur.com/KJY3DNR.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 94,
+          "name": "Targeting Monocular",
+          "tier": "ST ",
+          "image": "//i.imgur.com/JsFC1ms.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 95,
+          "name": "Headless Ted",
+          "tier": "ST ",
+          "image": "//i.imgur.com/ndhMkcx.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 96,
+          "name": "Firelight Necklace",
+          "tier": "ST ",
+          "image": "//i.imgur.com/GKGCC2M.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 97,
+          "name": "Alexander's Band",
+          "tier": "ST",
+          "image": "//i.imgur.com/P65SDWN.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 98,
+          "name": "Flames of Genesis",
+          "tier": "ST ",
+          "image": "//i.imgur.com/SLUIzXg.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 99,
+          "name": "Aquamarine Amulet",
+          "tier": "ST ",
+          "image": "//i.imgur.com/jvBNegz.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 100,
+          "name": "Pernicious Peridot",
+          "tier": "ST ",
+          "image": "//i.imgur.com/ikKZOl7.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 101,
+          "name": "Chrysanthemum Corsage",
+          "tier": "ST ",
+          "image": "//i.imgur.com/yKsWJek.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 102,
+          "name": "Revenant Ring",
+          "tier": "ST ",
+          "image": "//i.imgur.com/OCiNOBV.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 103,
+          "name": "Horrific Claws",
+          "tier": "ST ",
+          "image": "//i.imgur.com/sicn7VI.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 104,
+          "name": "Amulet of Drakefyre",
+          "tier": "ST ",
+          "image": "//i.imgur.com/im6gBaT.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 105,
+          "name": "Omamori",
+          "tier": "ST ",
+          "image": "//i.imgur.com/6qEIWTy.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 106,
+          "name": "Ruthven's Rosary",
+          "tier": "ST ",
+          "image": "//i.imgur.com/TfFtdgy.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 107,
+          "name": "Heavenly Magatama",
+          "tier": "ST ",
+          "image": "//i.imgur.com/fvDtqga.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 108,
+          "name": "Gothic Bouffant",
+          "tier": "ST ",
+          "image": "//i.imgur.com/hNhpR41.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 109,
+          "name": "Ring of Pagan Favor",
+          "tier": "ST ",
+          "image": "//i.imgur.com/tr4eB38.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 110,
+          "name": "Honey Circlet",
+          "tier": "ST ",
+          "image": "//i.imgur.com/hlT6wVA.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 111,
+          "name": "Ring of Pure Wishes",
+          "tier": "ST ",
+          "image": "//i.imgur.com/t9URlJg.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 112,
+          "name": "Spectral Ring of Horrors",
+          "tier": "ST ",
+          "image": "//i.imgur.com/1puXzet.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 113,
+          "name": "Plague Mask",
+          "tier": "ST ",
+          "image": "//i.imgur.com/AEAkWgB.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 114,
+          "name": "Akuma's Tear",
+          "tier": "ST ",
+          "image": "//i.imgur.com/HmPWajN.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 115,
+          "name": "Geb's Ring of Wisdom",
+          "tier": "ST ",
+          "image": "//i.imgur.com/xxjYkO4.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 116,
+          "name": "Ring of the Covetous Heart",
+          "tier": "ST ",
+          "image": "//i.imgur.com/soOMMR2.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 117,
+          "name": "First Mate's Hook",
+          "tier": "ST ",
+          "image": "//i.imgur.com/kprOPN1.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 118,
+          "name": "Chrysalis of Eternity",
+          "tier": "UT",
+          "image": "//i.imgur.com/hrmQLfs.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 119,
+          "name": "Omnipotence Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/ObMdsMS.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 120,
+          "name": "Kagenohikari",
+          "tier": "UT",
+          "image": "//i.imgur.com/2YYiVTu.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 121,
+          "name": "The Forgotten Crown",
+          "tier": "UT",
+          "image": "//i.imgur.com/IeKMdLv.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 122,
+          "name": "The Twilight Gemstone",
+          "tier": "UT",
+          "image": "//i.imgur.com/TYdYHrv.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 123,
+          "name": "Bracer of the Guardian",
+          "tier": "UT",
+          "image": "//i.imgur.com/r1IZ5AY.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 124,
+          "name": "Exalted God's Horn",
+          "tier": "UT",
+          "image": "//i.imgur.com/qQXV0jj.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 125,
+          "name": "Battalion Banner",
+          "tier": "UT",
+          "image": "//i.imgur.com/mBizc0l.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 126,
+          "name": "Divine Coronation",
+          "tier": "UT",
+          "image": "//i.imgur.com/CrLH7X3.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 127,
+          "name": "Collector's Monocle",
+          "tier": "UT",
+          "image": "//i.imgur.com/4xNYkcz.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 128,
+          "name": "Chancellor's Cranium",
+          "tier": "UT",
+          "image": "//i.imgur.com/qJWkf3N.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 129,
+          "name": "Sourcestone",
+          "tier": "UT",
+          "image": "//i.imgur.com/L5sYl5P.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 130,
+          "name": "Bloodshed Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/1485mxJ.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 131,
+          "name": "Magical Lodestone",
+          "tier": "UT",
+          "image": "//i.imgur.com/nRri93R.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 132,
+          "name": "Overclocking Amulet",
+          "tier": "UT",
+          "image": "//i.imgur.com/O15RAvc.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 133,
+          "name": "Token of Warmth",
+          "tier": "UT",
+          "image": "//i.imgur.com/yPyBQPO.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 134,
+          "name": "Token of Happiness",
+          "tier": "UT",
+          "image": "//i.imgur.com/gBmxoBU.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 135,
+          "name": "E.Y.E.",
+          "tier": "UT",
+          "image": "//i.imgur.com/1BMgFOY.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 136,
+          "name": "Crystallised Mist",
+          "tier": "UT",
+          "image": "//i.imgur.com/TeN17x2.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 137,
+          "name": "Brewer's Bangle",
+          "tier": "UT",
+          "image": "//i.imgur.com/EMoLtlO.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 138,
+          "name": "Thistleleaf Necklace",
+          "tier": "UT",
+          "image": "//i.imgur.com/Q0CmiSC.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 139,
+          "name": "Frimarra",
+          "tier": "UT",
+          "image": "//i.imgur.com/jVNjxV7.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 140,
+          "name": "Ring of the Northern Light",
+          "tier": "UT",
+          "image": "//i.imgur.com/8el88C7.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 141,
+          "name": "Enchanted Ice Shard",
+          "tier": "UT",
+          "image": "//i.imgur.com/zadQyor.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 142,
+          "name": "Ring of the Pyramid",
+          "tier": "UT",
+          "image": "//i.imgur.com/AGFZBiz.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 143,
+          "name": "Ring of the Nile",
+          "tier": "UT",
+          "image": "//i.imgur.com/fzBe6X1.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 144,
+          "name": "Ring of the Sphinx",
+          "tier": "UT",
+          "image": "//i.imgur.com/bevUSZ5.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 145,
+          "name": "Esben's Wedding Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/hIN9shz.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 146,
+          "name": "Locked Reactor",
+          "tier": "UT",
+          "image": "//i.imgur.com/w6uXhF2.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 147,
+          "name": "Experimental Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/CwMs1nv.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 148,
+          "name": "The Forgotten Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/Gg6Y8cv.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 149,
+          "name": "Ring of Decades",
+          "tier": "UT",
+          "image": "//i.imgur.com/YfL2dh5.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 150,
+          "name": "Amulet of Dispersion",
+          "tier": "UT",
+          "image": "//i.imgur.com/fOZY56P.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 151,
+          "name": "Ring of Divine Faith",
+          "tier": "UT",
+          "image": "//i.imgur.com/SbORs3D.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 152,
+          "name": "Captain's Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/GaW3dSH.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 153,
+          "name": "Coral Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/CUc0xuP.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 154,
+          "name": "Fairy Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/Qd37W41.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 155,
+          "name": "Snake Eye Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/lvPfj4Z.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 156,
+          "name": "Spider's Eye Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/wqOKIuU.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 157,
+          "name": "Crystal Bone Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/Z1rWlNH.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 158,
+          "name": "Candy Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/7azhBBW.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 159,
+          "name": "Corsair Ring",
+          "tier": "UT",
+          "image": "//i.imgur.com/VLrU7Kd.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 160,
+          "name": "Ring of Unbound Magic",
+          "tier": "6",
+          "image": "//i.imgur.com/yHAf5VM.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 161,
+          "name": "Ring of Unbound Health",
+          "tier": "6",
+          "image": "//i.imgur.com/tnfndMm.png",
+          "type": "Ring",
+          "specificType": "Limited Rings",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 162,
+          "name": "Chainmail Body Armor",
+          "tier": "ST ",
+          "image": "//i.imgur.com/P6WDyFQ.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 163,
+          "name": "Mercy's Bane",
+          "tier": "ST ",
+          "image": "//i.imgur.com/wd2fBa4.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 164,
+          "name": "Reinforced Root Armor",
+          "tier": "ST ",
+          "image": "//i.imgur.com/N4SygV2.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 165,
+          "name": "Vortex Plating",
+          "tier": "ST ",
+          "image": "//i.imgur.com/FCLWvYi.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 166,
+          "name": "Barrier Reef",
+          "tier": "ST",
+          "image": "//i.imgur.com/YgagLly.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 167,
+          "name": "Flame Guard",
+          "tier": "ST ",
+          "image": "//i.imgur.com/fqL9xSL.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 168,
+          "name": "Overalls of Endurance",
+          "tier": "ST ",
+          "image": "//i.imgur.com/47x1mbH.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 169,
+          "name": "Naval Uniform",
+          "tier": "ST ",
+          "image": "//i.imgur.com/I9LWK9U.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 170,
+          "name": "Kamishimo",
+          "tier": "ST ",
+          "image": "//i.imgur.com/5jqDUpK.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 171,
+          "name": "Zaarvox's Heart",
+          "tier": "ST ",
+          "image": "//i.imgur.com/9vrqP0z.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 172,
+          "name": "Fairy Plate",
+          "tier": "ST ",
+          "image": "//i.imgur.com/psEdGVe.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 173,
+          "name": "Wings of Sanctity",
+          "tier": "ST ",
+          "image": "//i.imgur.com/nk4E21t.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 174,
+          "name": "A.R.M.O.R.",
+          "tier": "ST ",
+          "image": "//i.imgur.com/XoFFZfe.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 175,
+          "name": "Twilight Shroud",
+          "tier": "ST ",
+          "image": "//i.imgur.com/sDrDmCT.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 176,
+          "name": "Ragged Robes",
+          "tier": "ST ",
+          "image": "//i.imgur.com/1jKG8hb.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 177,
+          "name": "Blast Proof Robes",
+          "tier": "ST ",
+          "image": "//i.imgur.com/SnvaFhz.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 178,
+          "name": "Oceanic Apparel",
+          "tier": "ST ",
+          "image": "//i.imgur.com/J98NxR2.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 179,
+          "name": "Magician's Robe",
+          "tier": "ST ",
+          "image": "//i.imgur.com/LOQNZFI.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 180,
+          "name": "Molten Mantle",
+          "tier": "ST ",
+          "image": "//i.imgur.com/Wwwi1lA.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 181,
+          "name": "Anointed Robe",
+          "tier": "ST ",
+          "image": "//i.imgur.com/zoa6DFD.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 182,
+          "name": "Toga Picta",
+          "tier": "ST ",
+          "image": "//i.imgur.com/fYkRPFo.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 183,
+          "name": "Polygonal Garbs",
+          "tier": "ST ",
+          "image": "//i.imgur.com/fPWPi90.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 184,
+          "name": "Soulless Robe",
+          "tier": "ST ",
+          "image": "//i.imgur.com/luHAGXb.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 185,
+          "name": "Doctor's Overcoat",
+          "tier": "ST ",
+          "image": "//i.imgur.com/ArH5HNT.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 186,
+          "name": "Shendyt of Geb",
+          "tier": "ST ",
+          "image": "//i.imgur.com/g82jCDD.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 187,
+          "name": "Garment of the Beast",
+          "tier": "ST ",
+          "image": "//i.imgur.com/cBqzNOn.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 188,
+          "name": "Rocky Robe",
+          "tier": "ST ",
+          "image": "//i.imgur.com/qP3WoFt.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 189,
+          "name": "Wind Dancer Robe",
+          "tier": "ST ",
+          "image": "//i.imgur.com/WX5SrGh.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 190,
+          "name": "Alchemist's Disheveled Garbs",
+          "tier": "ST ",
+          "image": "//i.imgur.com/oPOcdeO.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 191,
+          "name": "Luminous Armor",
+          "tier": "ST ",
+          "image": "//i.imgur.com/J1iS7QS.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 192,
+          "name": "Hallowed Hide",
+          "tier": "ST ",
+          "image": "//i.imgur.com/8cUpJDB.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 193,
+          "name": "Mantle of Skuld",
+          "tier": "ST ",
+          "image": "//i.imgur.com/qUnenkk.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 194,
+          "name": "Tinkerers Apron",
+          "tier": "ST ",
+          "image": "//i.imgur.com/fSu8aoJ.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 195,
+          "name": "Ornate Armor",
+          "tier": "ST ",
+          "image": "//i.imgur.com/RwQiwp1.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 196,
+          "name": "Seraphim's Guard",
+          "tier": "ST ",
+          "image": "//i.imgur.com/2hKZRHq.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 197,
+          "name": "Golem Garments",
+          "tier": "ST ",
+          "image": "//i.imgur.com/f53gvJM.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 198,
+          "name": "Acidic Armor",
+          "tier": "ST ",
+          "image": "//i.imgur.com/2MAkZbN.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 199,
+          "name": "Rags of the Host",
+          "tier": "ST ",
+          "image": "//i.imgur.com/rCC0ZPH.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 200,
+          "name": "Wraith's Brigandine",
+          "tier": "ST ",
+          "image": "//i.imgur.com/gWlQmMS.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 201,
+          "name": "Divination Cloak",
+          "tier": "ST ",
+          "image": "//i.imgur.com/g3K5moJ.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 202,
+          "name": "Hirejou Tenne",
+          "tier": "ST ",
+          "image": "//i.imgur.com/8emGR5B.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 203,
+          "name": "Hollyhock Hide",
+          "tier": "ST ",
+          "image": "//i.imgur.com/aVqUiHI.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 204,
+          "name": "Wedding Dress",
+          "tier": "ST ",
+          "image": "//i.imgur.com/nKV3OUM.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 205,
+          "name": "Apiary Armor",
+          "tier": "ST ",
+          "image": "//i.imgur.com/Q1YO3pa.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 206,
+          "name": "Luxurious Leather",
+          "tier": "ST ",
+          "image": "//i.imgur.com/ig7UOnq.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 207,
+          "name": "Gladiator Guard",
+          "tier": "UT",
+          "image": "//i.imgur.com/QRe1YSk.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 208,
+          "name": "Royal Guard's Cuirass",
+          "tier": "UT",
+          "image": "//i.imgur.com/UWkXBC2.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 209,
+          "name": "Breastplate of New Life",
+          "tier": "UT",
+          "image": "//i.imgur.com/JQIbF9R.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 210,
+          "name": "Sage's Wakibiki",
+          "tier": "UT",
+          "image": "//i.imgur.com/9HWUZWj.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 211,
+          "name": "Candy-Coated Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/p9jh9r4.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 212,
+          "name": "Cask Corslet",
+          "tier": "UT",
+          "image": "//i.imgur.com/0gKF6SB.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 213,
+          "name": "Resurrected Warrior's Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/lbaYp6l.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 214,
+          "name": "Fungal Breastplate",
+          "tier": "UT",
+          "image": "//i.imgur.com/10YScvZ.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 215,
+          "name": "Aegis Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/g3hMsMt.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 216,
+          "name": "Heavy Protective Matrix",
+          "tier": "UT",
+          "image": "//i.imgur.com/BpVtJAi.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 217,
+          "name": "Fire Dragon Battle Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/SOFbGGp.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 218,
+          "name": "Warped Mantle",
+          "tier": "UT",
+          "image": "//i.imgur.com/4SrAZ1u.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 219,
+          "name": "Cheater Heavy Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/IGq8bRy.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 220,
+          "name": "Vesture of Duality",
+          "tier": "UT",
+          "image": "//i.imgur.com/QjfsjIn.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 221,
+          "name": "Diplomatic Robe",
+          "tier": "UT",
+          "image": "//i.imgur.com/hHyzrLB.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 222,
+          "name": "Mantle of the Monarchy",
+          "tier": "UT",
+          "image": "//i.imgur.com/55XhhEw.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 223,
+          "name": "Ritual Robe",
+          "tier": "UT",
+          "image": "//i.imgur.com/ymPfzOk.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 224,
+          "name": "Flowering Kimono",
+          "tier": "UT",
+          "image": "//i.imgur.com/Uqpyd1h.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 225,
+          "name": "Esben's Shaman Attire",
+          "tier": "UT",
+          "image": "//i.imgur.com/V8pfKqe.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 226,
+          "name": "Judge's Robe",
+          "tier": "UT",
+          "image": "//i.imgur.com/w7qdqJK.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 227,
+          "name": "Magic Protective Matrix",
+          "tier": "UT",
+          "image": "//i.imgur.com/HvQjLza.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 228,
+          "name": "Water Dragon Silk Robe",
+          "tier": "UT",
+          "image": "//i.imgur.com/gqVpc9Y.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 229,
+          "name": "Robe of the Mad Scientist",
+          "tier": "UT",
+          "image": "//i.imgur.com/SwTLhZA.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 230,
+          "name": "Tlatoani's Shroud",
+          "tier": "UT",
+          "image": "//i.imgur.com/JciwcUX.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 231,
+          "name": "Chasuble of Holy Light",
+          "tier": "UT",
+          "image": "//i.imgur.com/fU9PIix.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 232,
+          "name": "Woodland Robe",
+          "tier": "UT",
+          "image": "//i.imgur.com/XaN7pD8.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 233,
+          "name": "Robe of the Tlatoani",
+          "tier": "UT",
+          "image": "//i.imgur.com/OBwU698.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 234,
+          "name": "Cheater Robe",
+          "tier": "UT",
+          "image": "//i.imgur.com/ynuIjEw.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 235,
+          "name": "Centaur's Shielding",
+          "tier": "UT",
+          "image": "//i.imgur.com/XmIB3cd.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 236,
+          "name": "Turncoat Cape",
+          "tier": "UT",
+          "image": "//i.imgur.com/V3W2Yw5.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 237,
+          "name": "Vest of Abandoned Shadows",
+          "tier": "UT",
+          "image": "//i.imgur.com/VEsxfR3.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 238,
+          "name": "Armor of Nil",
+          "tier": "UT",
+          "image": "//i.imgur.com/l7uFrzx.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 239,
+          "name": "Ethereal Happi",
+          "tier": "UT",
+          "image": "//i.imgur.com/Ibo3Eav.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 240,
+          "name": "Squadron Sheathing",
+          "tier": "UT",
+          "image": "//i.imgur.com/QAPSCLF.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 241,
+          "name": "Fitted Protective Matrix",
+          "tier": "UT",
+          "image": "//i.imgur.com/oMNFUKj.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 242,
+          "name": "Leaf Dragon Hide Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/voSE8ih.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 243,
+          "name": "Harlequin Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/Wn4vs1y.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 244,
+          "name": "Coral Silk Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/nlshYfC.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 245,
+          "name": "Greaterhosen",
+          "tier": "UT",
+          "image": "//i.imgur.com/Y341Xyh.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 246,
+          "name": "Yellow Beehemoth Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/lZCU4nx.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 247,
+          "name": "Red Beehemoth Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/InPgMzU.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 248,
+          "name": "Blue Beehemoth Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/cV2muQj.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 249,
+          "name": "Spectral Cloth Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/uJhfN6g.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 250,
+          "name": "Snakeskin Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/g1QQ6Ee.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 251,
+          "name": "Cheater Light Armor",
+          "tier": "UT",
+          "image": "//i.imgur.com/pO23X79.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 252,
+          "name": "Annihilation Armor",
+          "tier": "15",
+          "image": "//i.imgur.com/N9m6Nfx.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 253,
+          "name": "Robe of the Ancient Intellect",
+          "tier": "15",
+          "image": "//i.imgur.com/FFK4t7E.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 254,
+          "name": "Leviathan Armor",
+          "tier": "15",
+          "image": "//i.imgur.com/uvR1Gd4.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 255,
+          "name": "Eggre Battle Armor",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/du1jQv4.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 256,
+          "name": "Ragetorn Armor",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/KEs2plO.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 257,
+          "name": "Tormentor's Chainmail",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/B9Q5U9c.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 258,
+          "name": "Legacy Fairy Plate",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/8mZ7l5p.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 259,
+          "name": "Almandine Armor of Anger",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/MOT0BL0.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 260,
+          "name": "Aspirant's Plate",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/uj4YAxM.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 261,
+          "name": "Heavy Construction Vest",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/M2MWWQm.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 262,
+          "name": "Cuirass of the Black Blade",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/VpxjBLA.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 263,
+          "name": "Armor of Heavenly Light",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/vxsGJ8l.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 264,
+          "name": "Heavy Syndicate Attire",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/kB5X7S2.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 265,
+          "name": "Frost Citadel Armor",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/ydXflQd.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 266,
+          "name": "Lacerated Gown",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/FemO9Ut.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 267,
+          "name": "Garb of the Ordained",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/Bv61PoS.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 268,
+          "name": "Devilish Robes",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/Z5UChsd.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 269,
+          "name": "Executioner's Garb",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/uB5QQ6k.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 270,
+          "name": "Robe of the Enchantress",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/EQKeIS1.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 271,
+          "name": "Immortal Mantle",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/lCVCwok.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 272,
+          "name": "Legacy Robe of Twilight",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/q9txEI0.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 273,
+          "name": "Aspirant's Robes",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/fh6tQnM.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 274,
+          "name": "Magic Construction Vest",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/aWEJBj5.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 275,
+          "name": "Wanderer's Cape",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/nmTkEJH.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 276,
+          "name": "Robe of Dark Summoning",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/2OyfAMH.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 277,
+          "name": "Mystic Syndicate Attire",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/ezxWmho.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 278,
+          "name": "Frost Elementalist Robe",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/2JLdqmf.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 279,
+          "name": "Robe of the Summer Solstice",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/ooAeV17.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 280,
+          "name": "Legacy Mantle of Skuld",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/qUnenkk.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 281,
+          "name": "Cupid's Garments",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/ay3VsKy.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 282,
+          "name": "Withered Poncho",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/ADOwAMM.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 283,
+          "name": "Torso Tunic",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/zMGZfSh.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 284,
+          "name": "Metal-plated Corset",
+          "tier": "ST (Limited) ",
+          "image": "//i.imgur.com/ucYEvNq.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 285,
+          "name": "Aspirant's Hide",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/BLC6rtl.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 286,
+          "name": "Fitted Construction Vest",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/ikKJh2q.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 287,
+          "name": "Shadowbeast Hide",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/is7ak3B.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 288,
+          "name": "Pirate Queen's Brigandine",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/PDtx8wF.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 289,
+          "name": "Light Syndicate Attire",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/ls4caRw.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        },
+        {
+          "id": 290,
+          "name": "Frost Drake Hide Armor",
+          "tier": "UT (Limited)",
+          "image": "//i.imgur.com/9J1Muiu.png",
+          "type": "Armor",
+          "specificType": "Heavy Armors",
+          "obtained": false,
+          "obtainedDate": null
+        }
+      ]
+    }
+  ]
+}
