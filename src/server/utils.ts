@@ -9,7 +9,7 @@ const charEquipmentDict: {
     ability: "Cloaks",
     armor: "Leather Armors",
   },
-  Assasin: {
+  Assassin: {
     weapons: ["Daggers", "Dual Blades"],
     ability: "Poisons",
     armor: "Leather Armors",

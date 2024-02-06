@@ -7,27 +7,34 @@ import classData from "../../rotmgClasses.json";
 function CharacterInfo() {
   const [character, setCharacter] = useState<Character>();
   const [searchInput, setSearchInput] = useState("");
-  const { id } = useParams();
+  const { userId } = useParams();
 
   const updateItemStatus = async (id: number) => {
-    if (!character) return;
-    await axios.put(
-      `http://localhost:3000/character/${character.id}/updateItem/${id}`
-    );
+    if (!character || !userId) return;
+    const userIndex = parseInt(userId) - 1;
+    await axios.put(`http://localhost:3000/character/${userIndex}/items/${id}`);
+    fetchCharacter();
+  };
+
+  const uncheckAllItems = async () => {
+    if (!character || !userId) return;
+    const userIndex = parseInt(userId) - 1;
+    await axios.put(`http://localhost:3000/character/${userIndex}/uncheckAll`);
+    fetchCharacter();
   };
 
   const fetchCharacter = async () => {
-    if (!id) return;
-    const userId = parseInt(id) - 1;
+    if (!userId) return;
+    const userIndex = parseInt(userId) - 1;
     const character = await axios.get(
-      `http://localhost:3000/character/${userId}`
+      `http://localhost:3000/character/${userIndex}`
     );
     setCharacter(character.data);
   };
 
   useEffect(() => {
     fetchCharacter();
-  }, [id]);
+  }, [userId]);
 
   if (!character)
     return (
@@ -67,12 +74,22 @@ function CharacterInfo() {
               /{character?.items?.length}
             </span>{" "}
             (
-            {(character?.items?.filter((item) => item.obtained === true)
-              .length /
-              character?.items?.length) *
-              100}
+            {(
+              (character?.items?.filter((item) => item.obtained === true)
+                .length /
+                character?.items?.length) *
+              100
+            ).toFixed(2)}
             %)
           </p>
+          <div className="w-full justify-center">
+            <button
+              className="bg-red-400 hover:bg-red-700 text-white font-bold p-2 rounded duration-200"
+              onClick={() => uncheckAllItems()}
+            >
+              Uncheck All
+            </button>
+          </div>
         </div>
       </div>
       <input

@@ -4,6 +4,7 @@ import App from "./App.tsx";
 import "./index.css";
 import { RouterProvider, createHashRouter } from "react-router-dom";
 import CharacterInfo from "./components/CharacterInfo.tsx";
+import CharacterCreate from "./components/CharacterCreate.tsx";
 
 const router = createHashRouter([
   {
@@ -11,8 +12,12 @@ const router = createHashRouter([
     element: <App />,
   },
   {
-    path: "/:id",
+    path: "/:userId",
     element: <CharacterInfo />,
+  },
+  {
+    path: "/create",
+    element: <CharacterCreate />,
   },
 ]);
 

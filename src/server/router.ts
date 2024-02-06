@@ -60,18 +60,35 @@ router.delete("/character/:charId", async function (req, res) {
   res.status(200).json({ message: "Character Deleted", charId });
 });
 
-router.put("/character/:charId/updateItem/:itemId", async function (req, res) {
-  console.log(req.params.charId);
-  console.log(req.params.itemId);
-  res.send("Item Updated");
+router.put("/character/:charId/items/:itemId", async function (req, res) {
+  try {
+    const itemId = req.params.itemId;
+    const charId = req.params.charId;
+    const character: Character = await db.getData(`/characters[${charId}]`);
+    character.items.forEach((item) => {
+      if (item.id === parseInt(itemId)) {
+        item.obtained = !item.obtained;
+      }
+    });
+    await db.push(`/character[${charId}]`, character, true);
+    res.status(200).json({ message: "Item Updated Successfuly" });
+  } catch (error) {
+    res.status(500).json({ error: "Internal Server Error" });
+  }
 });
 
-router.put(
-  "/character/:charId/updateItem/uncheckAll",
-  async function (req, res) {
-    console.log(req.params.charId);
-    res.send("Items Updated");
+router.put("/character/:charId/uncheckAll", async function (req, res) {
+  try {
+    const charId = req.params.charId;
+    const character: Character = await db.getData(`/characters[${charId}]`);
+    character.items.forEach((item) => {
+      item.obtained = false;
+    });
+    await db.push(`/character[${charId}]`, character, true);
+    res.status(200).json({ message: "Items Updated Successfuly" });
+  } catch (error) {
+    res.status(500).json({ error: "Internal Server Error" });
   }
-);
+});
 
 export default router;
