@@ -20,6 +20,16 @@ router.get("/character", async function (_req, res) {
   }
 });
 
+router.get("/character/:charId", async function (req, res) {
+  try {
+    const charId = req.params.charId;
+    const character = await db.getData(`/characters[${charId}]`);
+    res.status(200).json(character);
+  } catch (error) {
+    res.status(500).json({ error: "Internal Server Error" });
+  }
+});
+
 // TODO: Initialize an empty array for the characters array if characters key doesn't exist
 router.post("/character", async function (req, res) {
   try {
