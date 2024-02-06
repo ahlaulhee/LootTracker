@@ -11,23 +11,20 @@ function CharacterInfo() {
 
   const updateItemStatus = async (id: number) => {
     if (!character || !userId) return;
-    const userIndex = parseInt(userId) - 1;
-    await axios.put(`http://localhost:3000/character/${userIndex}/items/${id}`);
+    await axios.put(`http://localhost:3000/character/${userId}/items/${id}`);
     fetchCharacter();
   };
 
   const uncheckAllItems = async () => {
     if (!character || !userId) return;
-    const userIndex = parseInt(userId) - 1;
-    await axios.put(`http://localhost:3000/character/${userIndex}/uncheckAll`);
+    await axios.put(`http://localhost:3000/character/${userId}/uncheckAll`);
     fetchCharacter();
   };
 
   const fetchCharacter = async () => {
     if (!userId) return;
-    const userIndex = parseInt(userId) - 1;
     const character = await axios.get(
-      `http://localhost:3000/character/${userIndex}`
+      `http://localhost:3000/character/${userId}`
     );
     setCharacter(character.data);
   };
