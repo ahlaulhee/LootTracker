@@ -2,26 +2,94 @@ import data from "../../data.json";
 import { Character, Item } from "../vite-env";
 
 const charEquipmentDict: {
-  [key: string]: { weapon: string; ability: string };
+  [key: string]: { weapons: string[]; ability: string; armor: string };
 } = {
-  Rogue: { weapon: "Dagger", ability: "Cloaks" },
-  Archer: { weapon: "Bow", ability: "Quivers" },
-  Wizard: { weapon: "Staff", ability: "Spells" },
-  Priest: { weapon: "Wand", ability: "Tomes" },
-  Warrior: { weapon: "Sword", ability: "Helms" },
-  Knight: { weapon: "Sword", ability: "Shields" },
-  Paladin: { weapon: "Sword", ability: "Seals" },
-  Assasin: { weapon: "Dagger", ability: "Poisons" },
-  Necromancer: { weapon: "Staff", ability: "Skulls" },
-  Huntress: { weapon: "Archer", ability: "Traps" },
-  Mystic: { weapon: "Staff", ability: "Orbs" },
-  Trickster: { weapon: "Dagger", ability: "Prisms" },
-  Sorcerer: { weapon: "Wand", ability: "Scepters" },
-  Ninja: { weapon: "Katana", ability: "Stars" },
-  Samurai: { weapon: "Katana", ability: "Wakizashi" },
-  Bard: { weapon: "Bow", ability: "Lutes" },
-  Summoner: { weapon: "Wand", ability: "Maces" },
-  Kensei: { weapon: "Katana", ability: "Sheaths" },
+  Rogue: {
+    weapons: ["Daggers", "Dual Blades"],
+    ability: "Cloaks",
+    armor: "Leather Armors",
+  },
+  Assasin: {
+    weapons: ["Daggers", "Dual Blades"],
+    ability: "Poisons",
+    armor: "Leather Armors",
+  },
+  Trickster: {
+    weapons: ["Daggers", "Dual Blades"],
+    ability: "Prisms",
+    armor: "Leather Armors",
+  },
+  Archer: {
+    weapons: ["Bows", "Longbows"],
+    ability: "Quivers",
+    armor: "Leather Armors",
+  },
+  Bard: { weapons: ["Bows", "Longbows"], ability: "Lutes", armor: "Robes" },
+  Huntress: {
+    weapons: ["Bows", "Longbows"],
+    ability: "Traps",
+    armor: "Leather Armors",
+  },
+  Wizard: {
+    weapons: ["Staves", "Spellblades"],
+    ability: "Spells",
+    armor: "Robes",
+  },
+  Mystic: {
+    weapons: ["Staves", "Spellblades"],
+    ability: "Orbs",
+    armor: "Robes",
+  },
+  Necromancer: {
+    weapons: ["Staves", "Spellblades"],
+    ability: "Skulls",
+    armor: "Robes",
+  },
+  Priest: {
+    weapons: ["Wands", "Morning Stars"],
+    ability: "Tomes",
+    armor: "Robes",
+  },
+  Sorcerer: {
+    weapons: ["Wands", "Morning Stars"],
+    ability: "Scepters",
+    armor: "Robes",
+  },
+  Summoner: {
+    weapons: ["Wands", "Morning Stars"],
+    ability: "Maces",
+    armor: "Robes",
+  },
+  Warrior: {
+    weapons: ["Swords", "Flails"],
+    ability: "Helms",
+    armor: "Heavy Armors",
+  },
+  Knight: {
+    weapons: ["Swords", "Flails"],
+    ability: "Shields",
+    armor: "Heavy Armors",
+  },
+  Paladin: {
+    weapons: ["Swords", "Flails"],
+    ability: "Seals",
+    armor: "Heavy Armors",
+  },
+  Ninja: {
+    weapons: ["Katanas", "Tachis"],
+    ability: "Stars",
+    armor: "Leather Armors",
+  },
+  Samurai: {
+    weapons: ["Katanas", "Tachis"],
+    ability: "Wakizashi",
+    armor: "Heavy Armors",
+  },
+  Kensei: {
+    weapons: ["Katanas", "Tachis"],
+    ability: "Sheaths",
+    armor: "Heavy Armors",
+  },
 };
 
 export const getItems = () => {
@@ -46,8 +114,9 @@ export const getItems = () => {
 };
 
 export const getItemsByCharacter = (
-  charWeapon: string,
-  charAbility: string
+  charWeapons: string[],
+  charAbility: string,
+  charArmor: string
 ) => {
   const itemsArr: Item[] = [];
 
@@ -57,7 +126,8 @@ export const getItemsByCharacter = (
 
     if (
       (el.Type !== "Ability" || el["Specific Type"] === charAbility) &&
-      (el.Type !== "Weapon" || el["Specific Type"] === charWeapon)
+      (el.Type !== "Armor" || el["Specific Type"] === charArmor) &&
+      (el.Type !== "Weapon" || charWeapons.includes(el["Specific Type"]))
     ) {
       itemsArr.push({
         id: i,
@@ -84,8 +154,9 @@ export const postCharacter = (
   const items = allItems
     ? getItems()
     : getItemsByCharacter(
-        charEquipmentDict[charClass].weapon,
-        charEquipmentDict[charClass].ability
+        charEquipmentDict[charClass].weapons,
+        charEquipmentDict[charClass].ability,
+        charEquipmentDict[charClass].armor
       );
   const char: Character = { id, name, class: charClass, items };
 
@@ -95,12 +166,15 @@ export const postCharacter = (
 
 export const deleteCharacter = (id: number) => {
   // Delete character
+  console.log(id);
 };
 
 export const putItemStatus = (id: number) => {
   // Update item status to obtained : true
+  console.log(id);
 };
 
 export const putUncheckAllItems = (id: number) => {
   // Update all items of a character to obtained: false
+  console.log(id);
 };

@@ -1,0 +1,74 @@
+[
+  {
+    "className": "Rogue",
+    "classImage": "https://i.imgur.com/hgiU2hA.png"
+  },
+  {
+    "className": "Archer",
+    "classImage": "https://i.imgur.com/OrNGRgy.png"
+  },
+  {
+    "className": "Wizard",
+    "classImage": "https://i.imgur.com/QAtKJFt.png"
+  },
+  {
+    "className": "Priest",
+    "classImage": "https://i.imgur.com/MPcn792.png"
+  },
+  {
+    "className": "Warrior",
+    "classImage": "https://i.imgur.com/It4sclp.png"
+  },
+  {
+    "className": "Knight",
+    "classImage": "https://i.imgur.com/snm8oKO.png"
+  },
+  {
+    "className": "Paladin",
+    "classImage": "https://i.imgur.com/caT4rO5.png"
+  },
+  {
+    "className": "Assassin",
+    "classImage": "https://i.imgur.com/Xy1Lqha.png"
+  },
+  {
+    "className": "Necromancer",
+    "classImage": "https://i.imgur.com/pmOEcsZ.png"
+  },
+  {
+    "className": "Huntress",
+    "classImage": "https://i.imgur.com/tylzyyE.png"
+  },
+  {
+    "className": "Mystic",
+    "classImage": "https://i.imgur.com/bksjGPk.png"
+  },
+  {
+    "className": "Trickster",
+    "classImage": "https://i.imgur.com/E66uyda.png"
+  },
+  {
+    "className": "Sorcerer",
+    "classImage": "https://i.imgur.com/dzsmUSA.png"
+  },
+  {
+    "className": "Ninja",
+    "classImage": "https://i.imgur.com/WS5AQZ7.png"
+  },
+  {
+    "className": "Samurai",
+    "classImage": "https://i.imgur.com/be8agu7.png"
+  },
+  {
+    "className": "Bard",
+    "classImage": "https://i.imgur.com/h5Os4xa.png"
+  },
+  {
+    "className": "Summoner",
+    "classImage": "https://i.imgur.com/4QnFwS9.png"
+  },
+  {
+    "className": "Kensei",
+    "classImage": "https://i.imgur.com/o1uU6vZ.png"
+  }
+]
