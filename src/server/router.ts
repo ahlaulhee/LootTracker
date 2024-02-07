@@ -55,11 +55,11 @@ router.post("/character", async function (req, res) {
 router.delete("/character/:charId", async function (req, res) {
   try {
     const charId = req.params.charId;
-    const allChars: Character[] = await db.getData("/");
+    const allChars: Character[] = await db.getData("/characters");
     const filteredChars = allChars.filter(
       (char: Character) => char.id !== parseInt(charId)
     );
-    await db.push("/", filteredChars, true);
+    await db.push("/characters", filteredChars, true);
     res.status(200).json({ message: "Character Deleted", charId });
   } catch (error) {
     res.status(500).json({ error: "Internal Server Error" });

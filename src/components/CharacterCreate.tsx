@@ -1,6 +1,7 @@
 import { useState } from "react";
 import classData from "../../rotmgClasses.json";
 import axios from "axios";
+import { useNavigate } from "react-router-dom";
 
 function CharacterCreate() {
   const [characterInfo, setCharacterInfo] = useState<{
@@ -13,9 +14,15 @@ function CharacterCreate() {
     allItems: false,
   });
 
+  const navigate = useNavigate();
+
   const createCharacter = async () => {
     if (!characterInfo.name || !characterInfo.charClass) return;
-    await axios.post("http://localhost:3000/character", characterInfo);
+    await axios
+      .post("http://localhost:3000/character", characterInfo)
+      .then(() => {
+        navigate("/");
+      });
   };
   return (
     <div className="flex flex-col border border-white p-3 rounded m-3 space-y-6">
