@@ -29,7 +29,7 @@ function App() {
       <div className="flex flex-wrap gap-2 p-2 justify-center">
         {userCharacters.map((char) => (
           <div
-            className="border-2 border-white p-4 rounded cursor-pointer"
+            className="border-2 border-white p-4 rounded cursor-pointer w-72 flex flex-col"
             onClick={() => navigate(`/${char.id}`)}
           >
             <p className="text-lg font-semibold text-center">{char.name}</p>
@@ -63,7 +63,7 @@ function App() {
         ))}
         <Link
           to={"/create"}
-          className="w-[14rem] h-[20rem] bg-green-400 hover:bg-green-700 text-black font-bold rounded duration-200 text-center text-[10.5rem]"
+          className="w-72 bg-green-400 hover:bg-green-700 text-black rounded duration-200 text-center text-9xl flex items-center justify-center"
         >
           +
         </Link>

@@ -110,9 +110,7 @@ function CharacterInfo() {
                 )
                 ?.map((item) => (
                   <img
-                    className={`${
-                      item.obtained ? "bg-green-400" : "bg-red-400"
-                    }`}
+                    className={`${item.obtained ? "bg-green-400" : ""}`}
                     key={item.id}
                     src={item.image}
                     onClick={() => updateItemStatus(item.id)}

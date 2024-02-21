@@ -14,10 +14,34 @@ function CharacterCreate() {
     allItems: false,
   });
 
+  const [errors, setErrors] = useState<{
+    name: string;
+    charClass: string;
+  }>({
+    name: "",
+    charClass: "",
+  });
+
   const navigate = useNavigate();
 
   const createCharacter = async () => {
-    if (!characterInfo.name || !characterInfo.charClass) return;
+    const tmpErrors: { name: string; charClass: string } = {
+      name: "",
+      charClass: "",
+    };
+
+    if (!characterInfo.name || characterInfo.name.length > 15) {
+      tmpErrors.name =
+        "The name can't be empty and must be no longer than 15 characters";
+    }
+    if (!characterInfo.charClass) {
+      tmpErrors.charClass = "You must select a class";
+    }
+    setErrors(tmpErrors);
+    if (tmpErrors.name || tmpErrors.charClass) {
+      return;
+    }
+
     await axios
       .post("http://localhost:3000/character", characterInfo)
       .then(() => {
@@ -39,6 +63,9 @@ function CharacterCreate() {
           }
         />
       </div>
+      {errors.name ? (
+        <p className="text-red-600 text-sm text-center">{errors.name}</p>
+      ) : null}
       <div className="flex flex-wrap justify-center">
         {classData.map((cl) => (
           <img
@@ -54,7 +81,10 @@ function CharacterCreate() {
           />
         ))}
       </div>
-      <div className="flex justify-center space-x-2">
+      {errors.charClass ? (
+        <p className="text-red-600 text-sm text-center">{errors.charClass}</p>
+      ) : null}
+      <div className="flex justify-center items-center space-x-2">
         <input
           className="h-8 w-8"
           type="checkbox"
