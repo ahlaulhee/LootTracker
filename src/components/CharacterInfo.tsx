@@ -95,20 +95,33 @@ function CharacterInfo() {
         value={searchInput}
         onChange={(e) => setSearchInput(e.target.value)}
       />
-      <div className="flex flex-wrap border border-white justify-between p-1">
-        {character?.items
-          ?.filter((item) =>
-            item.name.toLowerCase().includes(searchInput.toLowerCase())
-          )
-          ?.map((item) => (
-            <img
-              className={`${item.obtained ? "bg-green-400" : "bg-red-400"}`}
-              key={item.id}
-              src={item.image}
-              onClick={() => updateItemStatus(item.id)}
-            />
-          ))
-          .reverse()}
+      <div className="flex flex-wrap border border-white">
+        {["Weapon", "Ability", "Armor", "Ring"].map((type) => (
+          <div
+            className="w-full space-y-2 border-b border-white py-2"
+            key={type}
+          >
+            <h2 className="text-center italic">{type}</h2>
+            <div className="flex flex-wrap justify-center gap-1">
+              {character?.items
+                ?.filter((item) => item.type === type) // Filter items by type
+                ?.filter((item) =>
+                  item.name.toLowerCase().includes(searchInput.toLowerCase())
+                )
+                ?.map((item) => (
+                  <img
+                    className={`${
+                      item.obtained ? "bg-green-400" : "bg-red-400"
+                    }`}
+                    key={item.id}
+                    src={item.image}
+                    onClick={() => updateItemStatus(item.id)}
+                  />
+                ))
+                .reverse()}
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   );

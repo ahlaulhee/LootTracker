@@ -63,7 +63,7 @@ function App() {
         ))}
         <Link
           to={"/create"}
-          className="w-[14rem] h-[20rem] bg-green-400 hover:bg-green-700 text-black font-bold p-2 rounded duration-200 text-center text-[10.5rem]"
+          className="w-[14rem] h-[20rem] bg-green-400 hover:bg-green-700 text-black font-bold rounded duration-200 text-center text-[10.5rem]"
         >
           +
         </Link>
