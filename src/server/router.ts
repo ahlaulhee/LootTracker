@@ -81,7 +81,7 @@ router.put("/character/:charId/items/:itemId", async function (req, res) {
         item.obtained = !item.obtained;
       }
     });
-    await db.push(`/character[${charIndex}]`, character, true);
+    await db.push(`/characters[${charIndex}]`, character, true);
     res.status(200).json({ message: "Item Updated Successfuly" });
   } catch (error) {
     res.status(500).json({ error: "Internal Server Error" });
@@ -99,7 +99,7 @@ router.put("/character/:charId/uncheckAll", async function (req, res) {
     character.items.forEach((item) => {
       item.obtained = false;
     });
-    await db.push(`/character[${charIndex}]`, character, true);
+    await db.push(`/characters[${charIndex}]`, character, true);
     res.status(200).json({ message: "Items Updated Successfuly" });
   } catch (error) {
     res.status(500).json({ error: "Internal Server Error" });
